@@ -1,0 +1,6 @@
+TTB2 A : 3x²+4x+3
+TTB2 B : 2x²-5x+3
+Doi dau TTB2 A : -3x²-4x-3
+Doi dau TTB2 B : -2x²+5x-3
+Tong cua 2 TTB2 A va B : 5x²-1x+6
+Hieu cua 2 TTB2 A va B : 1x²+9x--0

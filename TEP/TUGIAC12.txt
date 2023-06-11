@@ -1,0 +1,5 @@
+Tu giac A :1, 2, 3, 4
+Chu vi A : 10
+Tu giac B :5, 6, 7, 8
+Chu vi B : 26
+tong cua 2 tu giac A va B la tu giac : 6, 8, 10, 12
